@@ -1,4 +1,4 @@
-# Costumer Churn Prediction using Machine Learning
+# Customer Churn Prediction using Machine Learning
 
 Customer churn happens when customers decide to not continue purchasing products/services from an organization and end their association. This phenomenon is inevitable, one day or another, all companies lose customers. In fact, there can be many reasons for this: a decrease in the need, a loss of interest in the product or service offered, a better offer from a competitor, a price increase, etc…
 
