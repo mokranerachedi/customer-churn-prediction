@@ -1,1 +1,7 @@
-# customer-churn-prediction
+# Costumer Churn Prediction using Machine Learning
+
+Customer churn happens when customers decide to not continue purchasing products/services from an organization and end their association. This phenomenon is inevitable, one day or another, all companies lose customers. In fact, there can be many reasons for this: a decrease in the need, a loss of interest in the product or service offered, a better offer from a competitor, a price increase, etc…
+
+For many years now, companies have been putting in place colossal means to reduce churn and maintain their customer base. This is not surprising when you know that several researches prove that it is always more expensive (between 5 to 25 times more expensive according to [the Harvard Review study](https://hbr.org/2014/10/the-value-of-keeping-the-right-customers)) to get new customers than to keep existing ones. However, in today's world with the power of artificial intelligence, it can be done easily and automatically thanks to what is called Machine Learning.
+
+In this project, we will work on customer data from a telecom company ([published on kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)) to build a machine learning model that will predict whether a customer will churn from the company's services or not. The goal is to allow the company in question to better target and retain customers with a high risk of churn.
